@@ -5,7 +5,7 @@ import { getStorage } from "firebase/storage";
 
 // TODO: Replace with your actual Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCkw7PDEHfnD261paMcRAEHJEOBqZsHQCU",
+  apiKey: "AIzaSyACrDd2mUQVg7GOgnl3o1qymGSGdB4w3sw",
   authDomain: "lost-item-tracker-7898e.firebaseapp.com",
   projectId: "lost-item-tracker-7898e",
   storageBucket: "lost-item-tracker-7898e.firebasestorage.app",
